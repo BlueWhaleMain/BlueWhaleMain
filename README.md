@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ### Contact me
 + [GitHub](https://github.com/BlueWhaleMain)
 + [BiliBili](https://space.bilibili.com/336800070/#/)
-+ [Outlook](bluewhalemain@outlook.com)
++ [Outlook](mailto:bluewhalemain@outlook.com)
