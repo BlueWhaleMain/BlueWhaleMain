@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 ---
 
-+ 我是一个Web开发者，前后端和数据库都会做；还是一个自由开发者，开发任何自己想要的东西
-
-+ 对技术不挑食，喜欢编写与阅读文档，有想法就会去实现，喜欢花大量的时间优化代码和维护开发环境
-
-+ 此外，还对网络安全感兴趣，逆向工程、社会工程学、漏洞挖掘、加密解密、安全资讯都是关注点 ~~但是很菜~~
-
-- 对我感兴趣的话可以Follow，了解更多...
+* Java，工作是开发以Spring生态为主的Web浏览器后端应用
+* 跨技术栈，不搞小团体，为解决实际问题而设计最佳实践，为实用或具有研究价值的开源项目贡献力量
+* 乐于接受和理解一切与信息技术有关的事物，尤其是可能给当前工作带来转机的情报：
+  * 与LLM相关的提示词模板、Ragflow等技术
+  * 打破社区团体壁垒，结合各类技术的优势，例如Spring Data Domain与Mybatis Plus
+  * IEEE系列标准、DDD设计、高等级的RESTful应用的实践；以及上述应用的反模式案例的收集
+  * 云基础设施的研究以及本地化
+  * 网络安全与DevSecOps
+* 目前正在寻求新的灵感，希望社区能给我带来更多的惊喜
 
 ---
 
@@ -35,6 +37,7 @@ Here are some ideas to get you started:
 ---
 
 ### Contact me
-+ [GitHub](https://github.com/BlueWhaleMain)
-+ [BiliBili](https://space.bilibili.com/336800070/#/)
-+ [Outlook](mailto:bluewhalemain@outlook.com)
+
+* [GitHub](https://github.com/BlueWhaleMain)
+* [BiliBili](https://space.bilibili.com/336800070/#/)
+* [Outlook](mailto:bluewhalemain@outlook.com)
